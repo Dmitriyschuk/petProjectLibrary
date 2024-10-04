@@ -1,8 +1,6 @@
 package ru.schuk.springcourse.models;
 
 
-import ru.schuk.springcourse.util.PersonValidator;
-
 import javax.validation.constraints.*;
 
 /**
